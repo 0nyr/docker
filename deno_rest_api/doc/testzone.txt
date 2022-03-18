@@ -1,0 +1,50 @@
+{"users":[{"id":0.9861598418236046,"text":"test"},{"id":0.117063744392504,"text":"test"},{"id":0.19805536567703852,"text":"test"},{"id":0.4215476832736813,"text":"test"},{"id":0.834202116746642,"text":"test"},{"id":0.5121749925773493,"text":"test"},{"id":0.285421505342883,"text":"test"},{"id":0.08343909648944892,"text":"test"},{"id":0.5822052700794429,"text":"test"},{"id":0.8611990642401579,"text":"test"}]}
+
+	/*class UserForWeb {
+		id: number;
+		pseudo: string;
+		mail: string;
+		age?: number
+
+		constructor(id: number, pseudo: string, mail: string, age?: number) {
+			this.id = id;
+			this.pseudo = pseudo;
+			this.mail = mail;
+			this.age = age;
+		}
+
+	}
+
+	let usersForWeb: Array<UserForWeb> = [];
+	for(let i = 0; i < dummyUsers.users.length; i++) {
+		usersForWeb[i] = new UserForWeb(
+			Number(dummyUsers.users[i].getId()),
+			dummyUsers.users[i].pseudo,
+			dummyUsers.users[i].mail,
+			dummyUsers.users[i].age
+		);
+	}
+	context.response.body = { users: usersForWeb };*/
+
+    			/*class JsonUser {
+				pseudo: string;
+				mail: string;
+				age?: number
+		
+				constructor(pseudo: string, mail: string, age?: number) {
+					this.pseudo = pseudo;
+					this.mail = mail;
+					this.age = age;
+				}
+		
+			}*/
+
+			
+
+
+			/*const value: JsonUser = new JsonUser(
+				result.value.pseudo, 
+				result.value.mail,
+				result.value.age 
+			); // an object of parsed JSON */
+			//let pseudo: string = value.pseudo;
